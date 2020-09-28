@@ -17,9 +17,14 @@ p {
     color: #0D1F2D;
 }     
 
-.spinner-border {
-padding: 50px;    
+.card-group {
+    margin: auto;
+    padding: 20px;
+    height: 200px;
+    width: 800px;
+    column-gap: 20px;
 }
+
 
 
 
